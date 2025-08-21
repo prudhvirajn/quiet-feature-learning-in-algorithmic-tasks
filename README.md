@@ -1,4 +1,4 @@
-# quiet-feature-learning-in-algorithmic-tasks
+# Quiet Feature Learning in Algorithmic Tasks
 
 Code to replicate results from "Quiet Feature Learning in Algorithmic Tasks"
 
