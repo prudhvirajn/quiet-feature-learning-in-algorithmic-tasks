@@ -2,11 +2,11 @@
 
 This code recreates scaling law and feature probe results from the main paper. There are three stages to recreate the results:
 
-1. Run scaling law experiment for tasks and input sizes. (Refer to "Running scaling laws experiments" section)
+1. Run scaling law experiment for tasks and input sizes. (Refer to ["Running scaling laws experiments"](#running-scaling-laws-experiments) section)
 
-2. Train Feature Probes to detect Quiet / Loud Features. (Refer to "Training Feature Probes to detect Quiet / Loud Features across compute budget" section)
+2. Train Feature Probes to detect Quiet / Loud Features. (Refer to ["Training Feature Probes to detect Quiet / Loud Features across compute budget"](#training-feature-probes-to-detect-quiet--loud-features-across-compute-budget) section)
 
-3. Causal Intervention using feature probes to determine if a feature is causally necessary to the model's performance. (Refer to "Feature Ablations" section)
+3. Causal Intervention using feature probes to determine if a feature is causally necessary to the model's performance. (Refer to ["Feature Ablations"](#feature-ablations) section)
 
 ## Installation
 
