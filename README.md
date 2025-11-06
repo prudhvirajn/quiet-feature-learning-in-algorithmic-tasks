@@ -41,7 +41,7 @@ If you find this work useful in your research, please consider citing our [paper
 ```tex
 @article{naidu2025quietfeaturelearning,
   title={Quiet Feature Learning in Algorithmic Tasks},
-  author={Naidu, Prudhviraj and Wang, Zixian and Bergen, Leon and Paturi, Ramamohan},
+  author={Prudhviraj Naidu and Zixian Wang and Leon Bergen and Ramamohan Paturi},
   journal={arXiv preprint arXiv:2505.03997},
   year={2025}
 }
